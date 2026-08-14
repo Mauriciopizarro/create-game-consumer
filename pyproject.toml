@@ -1,0 +1,2 @@
+[tool.vercel]
+entrypoint = "start_game_consumer.py"
